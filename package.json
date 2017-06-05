@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.1.1",
+  "description": "this is a test",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daqianduandream/myomaijia.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daqianduandream/myomaijia/issues"
+  },
+  "homepage": "https://github.com/daqianduandream/myomaijia#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0"
+  }
+}
